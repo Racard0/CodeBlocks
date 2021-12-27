@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1636423025 source:e:\codebloacks\p132_zifuhszifuchuanhs_11_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<ctype.h>
+

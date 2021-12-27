@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1634956864 source:e:\codebloacks\ashujujiegou\p7shuangxianglb_10_22\list.cpp
+	"list.h"
+
+1634955181 e:\codebloacks\ashujujiegou\p7shuangxianglb_10_22\list.h
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
+1634956688 source:e:\codebloacks\ashujujiegou\p7shuangxianglb_10_22\main.cpp
+	"list.h"
+

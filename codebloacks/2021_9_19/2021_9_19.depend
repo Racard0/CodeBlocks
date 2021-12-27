@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1632070236 source:e:\codebloacks\2021_9_19\main.cpp
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+

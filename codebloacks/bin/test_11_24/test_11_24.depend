@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637821480 source:e:\codebloacks\bin\test_11_24\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

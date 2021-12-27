@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1634465998 source:e:\codebloacks\ashujujiegou\p3lianbiao_10_17\test.cpp
+	"test.h"
+
+1634449431 e:\codebloacks\ashujujiegou\p3lianbiao_10_17\test.h
+	<stdio.h>
+	<stdlib.h>
+
+1634465678 source:e:\codebloacks\ashujujiegou\p3lianbiao_10_17\main.cpp
+	"test.h"
+

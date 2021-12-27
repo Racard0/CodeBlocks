@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1635073410 source:e:\codebloacks\p106_zy_10_24\main.cpp
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<assert.h>
+

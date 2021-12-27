@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636789896 source:e:\codebloacks\p141_zidingyi_11_9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+

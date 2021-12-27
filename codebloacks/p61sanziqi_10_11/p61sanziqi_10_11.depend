@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1633940450 source:e:\codebloacks\p61sanziqi_10_11\text.cpp
+	"game.h"
+	<stdio.h>
+
+1633940461 e:\codebloacks\p61sanziqi_10_11\game.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

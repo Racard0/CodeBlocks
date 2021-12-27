@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1635425264 source:e:\codebloacks\ashujujiegou\p12_duilie_10_28\main.cpp
+	"queque.h"
+
+1635926449 e:\codebloacks\ashujujiegou\p12_duilie_10_28\queque.h
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
+1635927992 source:e:\codebloacks\ashujujiegou\p12_duilie_10_28\queque.cpp
+	"queque.h"
+

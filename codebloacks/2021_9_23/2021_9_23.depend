@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1632416913 source:e:\codebloacks\2021_9_23\main.cpp
+	<stdio.h>
+	<string.h>
+	"main.h.h"
+
+1632417024 e:\codebloacks\2021_9_23\include\main.h.h
+
+1632417020 source:e:\codebloacks\2021_9_23\src\main.h.cpp
+
+1632417396 source:e:\codebloacks\2021_9_23\src\sub.cpp
+

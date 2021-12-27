@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1636029082 source:e:\codebloacks\ashujujiegou\p14_tree_11_4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1635927992 source:e:\codebloacks\ashujujiegou\p14_tree_11_4\queque.c
+	"queque.h"
+
+1636078841 e:\codebloacks\ashujujiegou\p14_tree_11_4\queque.h
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<stdbool.h>
+

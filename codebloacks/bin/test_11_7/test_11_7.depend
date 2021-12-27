@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1636268918 source:e:\codebloacks\bin\test_11_7\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<queue>
+
+1636268092 source:e:\codebloacks\bin\test_11_7\test.cpp
+

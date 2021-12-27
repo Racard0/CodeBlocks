@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1635900269 source:e:\codebloacks\ashujujiegou\p11_zhanheduilie_10_28\main.cpp
+	"stack.h"
+
+1635905953 e:\codebloacks\ashujujiegou\p11_zhanheduilie_10_28\stack.h
+	<stdio.h>
+	<stdbool.h>
+	<assert.h>
+	<stdlib.h>
+
+1635905948 source:e:\codebloacks\ashujujiegou\p11_zhanheduilie_10_28\stack.cpp
+	"stack.h"
+

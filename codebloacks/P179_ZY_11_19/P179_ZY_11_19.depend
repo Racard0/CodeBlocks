@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1637322439 source:e:\codebloacks\p179_zy_11_19\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<limits.h>
+
